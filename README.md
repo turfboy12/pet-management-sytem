@@ -11,6 +11,7 @@ WHAT DOES THE SYSTEM
 * The System allows users to authenticate as Staff or Client.
 * The System allows users to afford services such as purchasing pets, registering pets, accomodating pets.
 * The System use an email service to contact the staff members.
+* Third Party (API)
 
 WHAT TECHNOLOGIES DOES THE SYSTEM USE
 ====================================
